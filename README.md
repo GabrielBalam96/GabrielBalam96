@@ -4,10 +4,10 @@ Hello 👋
 
 📱  Technologies
 
-JavaScript
-Vue js
-Node js
-Git
-CSS
-HTML
-SQL
+.JavaScript
+.Vue js
+.Node js
+.Git
+.CSS
+.HTML
+.SQL
