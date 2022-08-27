@@ -1,13 +1,13 @@
-Hello 👋 
+## Hello 👋 
 
 💻 I’m software developer.
 
-📱  Technologies
+## 📱  Technologies
 
-# JavaScript
-# Vue js
-# Node js
-# Git
-# CSS
-# HTML
-# SQL
+* JavaScript
+* Vue js
+* Node js
+* Git
+* CSS
+* HTML
+* SQL
