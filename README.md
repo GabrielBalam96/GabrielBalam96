@@ -3,7 +3,7 @@
 ## About me
 
 * 💻 I´m web development       
-* I ❤ to learn new things and apply it
+* I ❤ learn new things and apply it
 
 ## 📱  Technologies
 
